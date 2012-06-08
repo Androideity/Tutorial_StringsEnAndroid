@@ -1,0 +1,7 @@
+Proyecto que muestra el uso del archivo Strings.xml para separar los textos de la aplicación de tu código Java.
+
+- Declaración de un recurso string en Android.
+- Asignación de un archivo string en un layout.
+- Llamado de un recurso string desde código Java
+
+Ver tutorial: http://androideity.com/2011/08/15/trabajando-con-strings-en-android/
