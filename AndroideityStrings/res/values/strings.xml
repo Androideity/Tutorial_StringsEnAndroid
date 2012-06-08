@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroideityStrings</string>
+    
+    <string name="lbl_mensaje">Presiona el botón y observa qué pasa:</string>
+	<string name="btn_inicial">Presióname!</string>
+	<string name="btn_final">Ya me presionaste!</string>
+
+</resources>
